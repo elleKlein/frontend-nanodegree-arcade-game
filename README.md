@@ -1,6 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+A simple arcade game based on the classic game of Frogger
 
-for self-checking their submission.
+1. Download all files
+2. Open index.html in browser
+3. Use arrow keys to move player around the bugs
